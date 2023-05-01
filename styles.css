@@ -1,0 +1,66 @@
+img {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  height: auto;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+  color: white;
+}
+
+h3 {
+  display: block;
+  font-size: 1.17em;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+
+blockquote {
+  font-style: italic;
+  max-width: 545px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  font-size: 2em;
+  color: white;
+}
+
+li {
+  padding: 0.3cm;
+  font-size: large;
+  font-family: sans-serif;
+  color: white;
+}
+
+html {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-size: 3em;
+  font-family: georgia, arial, helvetica;
+  text-align: center;
+}
+
+figcaption {
+  font-size: x-large ;
+  color: white;
+  font-style: oblique;
+}
+
+p {
+  color: white;
+  font-size: larger;
+  font-family: 'Times New Roman', Times, serif;
+}
